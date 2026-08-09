@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FAF6EE"/>
+  <path d="M120 630V330C120 200 260 90 600 90C940 90 1080 200 1080 330V630" fill="none" stroke="#CDB684" stroke-width="2"/>
+  <text x="600" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="90" fill="#2A2620" text-anchor="middle">Olif &amp; Usman</text>
+  <text x="600" y="390" font-family="Georgia, serif" font-style="italic" font-size="32" fill="#A37A3E" text-anchor="middle">02 Agustus 2026</text>
+</svg>

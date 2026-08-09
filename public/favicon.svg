@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#FAF6EE"/>
+  <path d="M10 54V28C10 15 19 5 32 5C45 5 54 15 54 28V54" fill="none" stroke="#A37A3E" stroke-width="2.4"/>
+  <text x="32" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#2A2620" text-anchor="middle">O&amp;U</text>
+</svg>

@@ -1,0 +1,83 @@
+/* ---------------------------------------------------------------
+   Keyframes & scroll-reveal utilities
+--------------------------------------------------------------- */
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes petal-drift {
+  0% { transform: translateY(-8%) rotate(0deg); opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { transform: translateY(108vh) rotate(180deg); opacity: 0; }
+}
+
+@keyframes shimmer-line {
+  0%, 100% { opacity: 0.35; }
+  50% { opacity: 1; }
+}
+
+@keyframes disc-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes soft-pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.06); }
+}
+
+/* Scroll-reveal base (paired with useInView hook) */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1), transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* thin custom scrollbar for horizontal strips (gallery, timeline) */
+.scrollbar-hairline::-webkit-scrollbar {
+  height: 3px;
+}
+.scrollbar-hairline::-webkit-scrollbar-thumb {
+  background: var(--color-beige-dark);
+  border-radius: 999px;
+}
+.scrollbar-hairline {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-beige-dark) transparent;
+}
