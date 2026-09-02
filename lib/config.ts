@@ -1,0 +1,75 @@
+import { WeddingConfig } from "@/types/wedding";
+
+// Konfigurasi terpusat — seluruh isi undangan ada di sini, sehingga undangan
+// ini bisa digunakan ulang untuk pasangan lain tanpa menyentuh komponen.
+export const weddingConfig: WeddingConfig = {
+  coupleNames: {
+    groom: "Asri",
+    bride: "Husnul Khotimah",
+    display: "Asri & Husnul Khotimah",
+
+  },
+  weddingDateISO: "2026-09-19T09:00:00+07:00",
+  weddingDateDisplay: "19 · 09 · 2026",
+  invitationHeadline: "Bersama keluarga besar kami",
+  greetingMessage:
+    "Dengan penuh sukacita dan restu dari kedua keluarga, kami mengundang Bapak/Ibu/Saudara/i untuk turut merayakan awal kebersamaan kami selamanya.",
+  coupleIntro: {
+    groom: {
+      name: "Asri",
+      initial: "A",
+      parents: "Putra dari Bapak Bambang Wicaksono & Ibu Ratna Wicaksono",
+      bio: "Sosok yang tenang namun selalu tahu apa yang harus dikatakan. Menemukan ketenangan dalam perjalanan panjang, piringan hitam lama, dan pagi hari Minggu.",
+    },
+    bride: {
+      name: "Husnul Khotimah",
+      initial: "H",
+      parents: "Putri dari Bapak Hendra Anindita & Ibu Wulan Anindita",
+      bio: "Percaya untuk selalu hadir sepenuhnya — bagi orang-orang, bagi setiap pagi, bagi kebahagiaan kecil. Menyukai kartu pos dan kalimat yang belum selesai.",
+    },
+  },
+  events: {
+    akad: {
+      label: "Akad Nikah",
+      date: "Sabtu, 19 September 2026",
+      time: "09.00 — 11.00 WIB",
+      venueName: "Desa Margacinta",
+      address: "Jl. Kenanga Raya No. 18, Marga Cinta, Kec. Moramo, Kabupaten Konawe Selatan, Sulawesi Tenggara",
+      mapsUrl: "https://maps.app.goo.gl/E26W2bgdsT1sesSU8",
+    },
+    reception: {
+      label: "Resepsi",
+      date: "Minggu, 19 September 2026",
+      time: "13.00 — 17.00 WIB",
+      venueName: "Desa Margacinta",
+      address: "Jl. Kenanga Raya No. 18, Marga Cinta, Kec. Moramo, Kabupaten Konawe Selatan, Sulawesi Tenggara",
+      mapsUrl: "https://maps.app.goo.gl/E26W2bgdsT1sesSU8",
+    },
+  },
+  details: [
+    { label: "Kode Berpakaian", value: "Warna earth tone & pakaian formal. Mohon hindari warna putih — warna tersebut khusus untuk mempelai wanita." },
+    { label: "Kedatangan", value: "Pintu dibuka tiga puluh menit sebelum masing-masing acara dimulai. Mohon hadir tepat waktu." },
+    { label: "Anak-anak", value: "Kami sangat menyayangi putra-putri Bapak/Ibu, namun perayaan ini dikhususkan untuk tamu dewasa." },
+    { label: "Area Parkir", value: "Tersedia area parkir gratis, serta layanan valet di pintu masuk utama." },
+  ],
+  venue: {
+    name: "Desa Margacinta",
+    address: "Jl. Kenanga Raya No. 18, Marga Cinta, Kec. Moramo, Kabupaten Konawe Selatan, Sulawesi Tenggara",
+    mapsUrl: "https://maps.app.goo.gl/E26W2bgdsT1sesSU8",
+    note: "Tersedia area parkir. Pintu dibuka tiga puluh menit sebelum masing-masing acara.",
+  },
+  gift: {
+    bankName: "Bank Rakyat Indonesia (BRI)",
+    accountNumber: "8801234567",
+    accountHolder: "Nila Fauziah",
+    note: "Kehadiran Bapak/Ibu/Saudara/i adalah hadiah terindah bagi kami. Bagi yang ingin mengirimkan tanda kasih dari jauh, kami sertakan informasi berikut dengan penuh rasa syukur.",
+  },
+  music: {
+    src: "/audio/weddings.mp3",
+    title: "Instrumental Pernikahan (placeholder)",
+  },
+  contact: {
+    whatsapp: "+62 812 3456 7890",
+    email: "hello@adrianandclara.id",
+  },
+};
