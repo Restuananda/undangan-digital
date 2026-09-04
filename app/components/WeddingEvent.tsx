@@ -2,6 +2,7 @@ import { weddingConfig } from "@/lib/config";
 import { WeddingEventDetail } from "@/types/wedding";
 import Reveal from "./Reveal";
 import { ArchTransition } from "./Ornaments";
+import Image from "next/image";
 
 function EventBlock({ event }: { event: WeddingEventDetail }) {
   return (
@@ -36,6 +37,16 @@ export default function WeddingEvent() {
   const { akad, reception } = weddingConfig.events;
   return (
     <section id="wedding" className="relative bg-[color:var(--color-ivory)] px-6 py-28 sm:px-14">
+
+      <Image
+        src="/images/background4.webp"
+        width={720}
+        height={405}
+        priority
+        // quality={100}
+        alt=""
+        className="pointer-events-none absolute inset-0 h-full w-full object-cover"
+      />
       <ArchTransition fill="var(--color-ivory)" />
       <Reveal>
         <p className="eyebrow text-center">Acara Pernikahan</p>
