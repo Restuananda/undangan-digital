@@ -1,48 +1,48 @@
 [
   {
     "id": "001",
-    "name": "Muhammat Sahril S. Pd.,Gr",
-    "slug": "muhammat-sahril"
+    "name": "Muhammat sahril S. Pd, Gr",
+    "slug": "muhammat-sahril-s-pd-gr"
   },
   {
     "id": "002",
-    "name": "Muh. Miftahul Khoir S. Pd",
-    "slug": "muh-miftahul-khoir"
+    "name": "Muhammad miftahul khoir S. Pd",
+    "slug": "muhammad-miftahul-khoir-s-pd"
   },
   {
     "id": "003",
-    "name": "Sunandar, S. Ag",
-    "slug": "sunandar"
+    "name": "Sunandar S. Ag",
+    "slug": "sunandar-s-ag"
   },
   {
     "id": "004",
-    "name": "Muhammad Dimas S. Pd",
-    "slug": "muhammad-dimas"
+    "name": "Muhammad dimas S. Pd",
+    "slug": "muhammad-dimas-s-pd"
   },
   {
     "id": "005",
-    "name": "Muh Alfan A.Md.T",
-    "slug": "muh-alfan"
+    "name": "Muhammad alfan A. Md.T",
+    "slug": "muhammad-alfan-a-mdt"
   },
   {
     "id": "006",
-    "name": "Arun Samudra",
+    "name": "Arun samudra",
     "slug": "arun-samudra"
   },
   {
     "id": "007",
     "name": "Muhammad alim wilar. RR",
-    "slug": "muhammad-alim-wilar"
+    "slug": "muhammad-alim-wilar-rr"
   },
   {
     "id": "008",
-    "name": "Mujahid Islam Alhafidz",
-    "slug": "mujahid-islam-alhafidz"
+    "name": "Mujahid islam al hafidz",
+    "slug": "mujahid-islam-al-hafidz"
   },
   {
     "id": "009",
-    "name": "Muh. Parhan",
-    "slug": "muh-parhan"
+    "name": "Muhammad parhan",
+    "slug": "muhammad-parhan"
   },
   {
     "id": "010",
@@ -51,23 +51,23 @@
   },
   {
     "id": "011",
-    "name": "Dimas Setiawan",
+    "name": "Dimas setiawan",
     "slug": "dimas-setiawan"
   },
   {
     "id": "012",
-    "name": "Egi Saputra",
+    "name": "Egi saputra",
     "slug": "egi-saputra"
   },
   {
     "id": "013",
-    "name": "Syahrul Ramadhana",
+    "name": "Syahrul ramadhana",
     "slug": "syahrul-ramadhana"
   },
   {
     "id": "014",
-    "name": "Muh Abdillah",
-    "slug": "muh-abdillah"
+    "name": "Muhammad abdillah",
+    "slug": "muhammad-abdillah"
   },
   {
     "id": "015",
@@ -86,222 +86,102 @@
   },
   {
     "id": "018",
-    "name": "Fadil Wisnu Pratama",
-    "slug": "fadil-wisnu-pratama"
+    "name": "Nurul kholishah S. Pd",
+    "slug": "nurul-kholishah-s-pd"
   },
   {
     "id": "019",
-    "name": "Trian Fatih Umara",
-    "slug": "trian-fatih-umara"
+    "name": "Nur hapsah S. Sos",
+    "slug": "nur-hapsah-s-sos"
   },
   {
     "id": "020",
-    "name": "Egi Rahmawan",
-    "slug": "egi-rahmawan"
+    "name": "Indri ariani S. Pd",
+    "slug": "indri-ariani-s-pd"
   },
   {
     "id": "021",
-    "name": "Hapip Novi suwarto",
-    "slug": "hapip-novi-suwarto"
+    "name": "Inka armadhani S. Pd",
+    "slug": "inka-armadhani-s-pd"
   },
   {
     "id": "022",
-    "name": "Aditya basar",
-    "slug": "aditya-basar"
-  },
-  {
-    "id": "023",
-    "name": "Ansar Dwi putra",
-    "slug": "ansar-dwi-putra"
-  },
-  {
-    "id": "024",
-    "name": "Yusuf Maulana",
-    "slug": "yusuf-maulana"
-  },
-  {
-    "id": "025",
-    "name": "Raihan alfauzi",
-    "slug": "raihan-alfauzi"
-  },
-  {
-    "id": "026",
-    "name": "Muhammad sinarsyah",
-    "slug": "muhammad-sinarsyah"
-  },
-  {
-    "id": "027",
-    "name": "Syahril Tri prabowo",
-    "slug": "syahril-tri-prabowo"
-  },
-  {
-    "id": "028",
-    "name": "Bagas purnama bayu putra",
-    "slug": "bagas-purnama-bayu-putra"
-  },
-  {
-    "id": "029",
-    "name": "Riki kurniawan",
-    "slug": "riki-kurniawan"
-  },
-  {
-    "id": "030",
-    "name": "Danu sukendar",
-    "slug": "danu-sukendar"
-  },
-  {
-    "id": "031",
-    "name": "Nur rahman",
-    "slug": "nur-rahman"
-  },
-  {
-    "id": "032",
-    "name": "Saputra deska riyanto",
-    "slug": "saputra-deska-riyanto"
-  },
-  {
-    "id": "033",
-    "name": "Hansay herlangi",
-    "slug": "hansay-herlangi"
-  },
-  {
-    "id": "034",
-    "name": "Nurul kholishah S.Pd",
-    "slug": "nurul-kholishah"
-  },
-  {
-    "id": "035",
-    "name": "Iska mawarni S.Pd",
-    "slug": "iska-mawarni"
-  },
-  {
-    "id": "036",
-    "name": "Nur hapsah S.Sos",
-    "slug": "nur-hapsah"
-  },
-  {
-    "id": "037",
-    "name": "Suindah astuti yuliani A.Md.Gz",
-    "slug": "suindah-astuti-yuliani"
-  },
-  {
-    "id": "038",
-    "name": "Diah sugiarni S.Pd",
-    "slug": "diah-sugiarni"
-  },
-  {
-    "id": "039",
-    "name": "Dha Shinta utami",
-    "slug": "dha-shinta-utami"
-  },
-  {
-    "id": "040",
-    "name": "Indri ariani S.pd",
-    "slug": "indri-ariani"
-  },
-  {
-    "id": "041",
-    "name": "Siti febryani anastasya",
-    "slug": "siti-febryani-anastasya"
-  },
-  {
-    "id": "042",
-    "name": "Rahma tiara",
-    "slug": "rahma-tiara"
-  },
-  {
-    "id": "043",
     "name": "Elsa litasari",
     "slug": "elsa-litasari"
   },
   {
-    "id": "044",
-    "name": "Senia salsa billa",
-    "slug": "senia-salsa-billa"
+    "id": "023",
+    "name": "Senia salsabilla",
+    "slug": "senia-salsabilla"
   },
   {
-    "id": "045",
+    "id": "024",
     "name": "Lia kartika",
     "slug": "lia-kartika"
   },
   {
-    "id": "046",
+    "id": "025",
     "name": "Aulya rahmadhani",
     "slug": "aulya-rahmadhani"
   },
   {
-    "id": "047",
+    "id": "026",
     "name": "Siti mudawamah",
     "slug": "siti-mudawamah"
   },
   {
-    "id": "048",
-    "name": "Nur aziza",
-    "slug": "nur-aziza"
-  },
-  {
-    "id": "049",
+    "id": "027",
     "name": "Eli sunarti & suami",
     "slug": "eli-sunarti-and-suami"
   },
   {
-    "id": "050",
-    "name": "Novita herdiana",
-    "slug": "novita-herdiana"
+    "id": "028",
+    "name": "Aneng ismawati & suami",
+    "slug": "aneng-ismawati-and-suami"
   },
   {
-    "id": "051",
-    "name": "Aneng ismawati",
-    "slug": "aneng-ismawati"
-  },
-  {
-    "id": "052",
-    "name": "Siti marhamah",
-    "slug": "siti-marhamah"
-  },
-  {
-    "id": "053",
+    "id": "029",
     "name": "Yuni agista",
     "slug": "yuni-agista"
   },
   {
-    "id": "054",
-    "name": "Husnul khotimah",
-    "slug": "husnul-khotimah"
+    "id": "030",
+    "name": "Lilis dedi erlina & suami",
+    "slug": "lilis-dedi-erlina-and-suami"
   },
   {
-    "id": "055",
-    "name": "Lilis dedi erlina",
-    "slug": "lilis-dedi-erlina"
+    "id": "031",
+    "name": "Wuri handayani & Suami",
+    "slug": "wuri-handayani-and-suami"
   },
   {
-    "id": "056",
-    "name": "Wuri handayani",
-    "slug": "wuri-handayani"
-  },
-  {
-    "id": "057",
-    "name": "Tisa aulia",
-    "slug": "tisa-aulia"
-  },
-  {
-    "id": "058",
+    "id": "032",
     "name": "Zakiyatun munawaroh",
     "slug": "zakiyatun-munawaroh"
   },
   {
-    "id": "059",
+    "id": "033",
     "name": "Zunaedah ngizatun haniah & suami",
     "slug": "zunaedah-ngizatun-haniah-and-suami"
   },
   {
-    "id": "060",
-    "name": "Jeri sosia potika",
-    "slug": "jeri-sosia-potika"
+    "id": "034",
+    "name": "Siti lovita sari",
+    "slug": "siti-lovita-sari"
   },
   {
-    "id": "061",
-    "name": "Siti lovitasari",
-    "slug": "siti-lovitasari"
+    "id": "035",
+    "name": "Siti febryani anastasya",
+    "slug": "siti-febryani-anastasya"
+  },
+  {
+    "id": "036",
+    "name": "Rahma tiara",
+    "slug": "rahma-tiara"
+  },
+  {
+    "id": "037",
+    "name": "Hastri, S.Pd.,Gr.",
+    "slug": "hastri-spdgr"
   }
 ]
