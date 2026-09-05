@@ -64,11 +64,11 @@ export const weddingConfig: WeddingConfig = {
     note: "Kehadiran Bapak/Ibu/Saudara/i adalah hadiah terindah bagi kami. Bagi yang ingin mengirimkan tanda kasih dari jauh, kami sertakan informasi berikut dengan penuh rasa syukur.",
   },
   music: {
-    src: "/audio/weddings.mp3",
+    src: "https://ufyeavfzyymupaohdnxd.supabase.co/storage/v1/object/sign/Music/0906%20(1).MP3?token=eyJraWQiOiJhZmM3ZGMzMy01MjUzLTQ2MjgtYTM3MS1jOTRjYzk0MGU3MmIiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJNdXNpYy8wOTA2ICgxKS5NUDMiLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzg4NjM4ODgzLCJleHAiOjE4MjAxNzQ4ODN9.eb1VlBHPZYrwNLcK3boHKuTsot1TwXqRZtuAlir5HrA",
     title: "Instrumental Pernikahan (placeholder)",
   },
   contact: {
-    whatsapp: "082218350103",
-    email: "hello@adrianandclara.id",
+    whatsapp: "085117228100",
+    email: "decade.fastmedia@gmail.com",
   },
 };
