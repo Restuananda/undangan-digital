@@ -24,7 +24,7 @@ export const weddingConfig: WeddingConfig = {
     bride: {
       name: "Husnul Khotimah",
       initial: "H",
-      parents: "Putri dari Bapak Hendra Anindita & Ibu Wulan Anindita",
+      parents: "Putri dari Bapak Sodri dan Ibu Supainah",
       bio: "Percaya untuk selalu hadir sepenuhnya — bagi orang-orang, bagi setiap pagi, bagi kebahagiaan kecil. Menyukai kartu pos dan kalimat yang belum selesai.",
     },
   },
@@ -32,7 +32,7 @@ export const weddingConfig: WeddingConfig = {
     akad: {
       label: "Akad Nikah",
       date: "Sabtu, 19 September 2026",
-      time: "09.00 — 11.00 WIB",
+      time: "10.00 — 11.00 WIB",
       venueName: "Desa Margacinta",
       address: "kediaman Bapak Sodri Blok. F Desa margacinta Kec. Moramo-Kab Konawe selatan",
       mapsUrl: "https://maps.app.goo.gl/E26W2bgdsT1sesSU8",
@@ -40,7 +40,7 @@ export const weddingConfig: WeddingConfig = {
     reception: {
       label: "Resepsi",
       date: "Sabtu, 19 September 2026",
-      time: "13.00 — 17.00 WIB",
+      time: "12.00 — Selesai",
       venueName: "Desa Margacinta",
       address: "kediaman Bapak Sodri Blok. F Desa margacinta Kec. Moramo-Kab Konawe selatan",
       mapsUrl: "https://maps.app.goo.gl/E26W2bgdsT1sesSU8",

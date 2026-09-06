@@ -54,7 +54,7 @@ export default function CoupleIntroduction() {
         </h2>
       </Reveal>
 
-      <div className="mt-16 flex flex-col gap-20 sm:flex-row sm:items-start sm:justify-between sm:gap-8 sm:align-items-center">
+      <div className="mt-16 flex flex-col items-center gap-20 sm:flex-row sm:items-start sm:justify-between sm:gap-8">
         <Person initial={groom.initial} name={groom.name} parents={groom.parents} bio={groom.bio} align="left" />
         <div className="hidden self-stretch sm:block">
           <div className="mx-auto h-full w-px bg-[color:var(--color-taupe)]/40" />

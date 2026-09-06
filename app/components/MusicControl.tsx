@@ -18,7 +18,7 @@ export default function MusicControl({ enabled }: { enabled: boolean }) {
     // gesture tied to the guest's own "Open Invitation" tap, not an
     // autoplay before any interaction has happened.
     if (enabled && audioRef.current) {
-      audioRef.current.volume = 0.5;
+      audioRef.current.volume = 1;
       audioRef.current
         .play()
         .then(() => setPlaying(true))

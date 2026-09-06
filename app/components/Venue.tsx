@@ -25,9 +25,6 @@ export default function Venue() {
           <p className="mx-auto mt-4 max-w-[34ch] font-[family-name:var(--font-body)] text-sm leading-relaxed text-[color:var(--color-taupe-dark)]">
             {venue.address}
           </p>
-          <p className="mx-auto mt-4 max-w-[36ch] font-[family-name:var(--font-body)] text-xs leading-relaxed text-[color:var(--color-taupe)]">
-            {venue.note}
-          </p>
           <a
             href={venue.mapsUrl}
             target="_blank"

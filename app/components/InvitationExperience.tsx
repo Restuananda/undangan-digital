@@ -47,7 +47,7 @@ export default function InvitationExperience({
         <CoupleIntroduction />
         <WeddingEvent />
         <Countdown />
-        <Details />
+        {/* <Details /> */}
         <Venue />
         <RSVP guestId={guestId} guestName={guestName} initialRecord={initialRecord} />
         {wishesSection}
